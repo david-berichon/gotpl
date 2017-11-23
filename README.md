@@ -1,3 +1,5 @@
+[![Coverage Status](https://coveralls.io/repos/github/david-berichon/gotpl/badge.svg)](https://coveralls.io/github/david-berichon/gotpl)
+
 # gotpl - CLI tool for Golang templates
 
 Command line tool that compiles Golang
